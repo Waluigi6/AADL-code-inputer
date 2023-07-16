@@ -21,3 +21,6 @@ I N S T R U C T I O N S !
 
 
 I hope you enjoy this program. If you have any feedback, submit feedback on the Github Repo.
+
+
+*If you are on an Apple computer, then look up a tutorial about how to install python modules.
